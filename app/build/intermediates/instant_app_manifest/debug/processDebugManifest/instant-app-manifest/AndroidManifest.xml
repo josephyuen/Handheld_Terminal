@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.authentication.eighthundred"
+    android:targetSandboxVersion="2"
+    android:versionCode="2"
+    android:versionName="V1.6.1.171117" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <!-- 在SDCard中创建与删除文件权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 往SDCard写入数据权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+    <uses-permission android:name="android.permission.READ_OWNER_DATA" />
+    <!-- 解锁屏幕 -->
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-feature android:name="android.hardware.usb.host" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true" />
+
+    <application
+        android:name="com.authentication.eighthundred.activity.MyApplication"
+        android:debuggable="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:persistent="true"
+        android:testOnly="true" >
+        <activity
+            android:name="com.authentication.eighthundred.activity.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.UHFActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.DebitCreditTransReadCardActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.PrinterActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.FingerprintActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.ICCardActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.CPUActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.SoftBarCodeActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.CardSelectActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.IcCardProgActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.IcCardBankActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.IcCardOrderActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.MagStripeCardActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.GetVersionActivity"
+            android:label="@string/title_activity_get_version"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.UHFDetailsActivity"
+            android:label="@string/title_activity_uhfdetails"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.SFZActivity"
+            android:label="@string/title_activity_sfz"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.M1Activity"
+            android:label="@string/title_activity_m1"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light.NoTitleBar" >
+        </activity>
+
+        <service android:name="android_serialport_api.ScanSerice" >
+        </service>
+
+        <receiver android:name="android_serialport_api.AutoBootReceiver" >
+            <intent-filter android:priority="2147483647" >
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.authentication.eighthundred.activity.PsamCardStm32Activity"
+            android:label="@string/title_activity_psam_card"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.DanjuActivity"
+            android:label="@string/title_activity_danju"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.FBIFingerPrintActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+                android:resource="@xml/device_filter" />
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.FPDisplayActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.authentication.eighthundred.activity.PsamCard32555Activity"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

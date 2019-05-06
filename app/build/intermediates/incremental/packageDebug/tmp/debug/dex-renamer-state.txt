@@ -1,0 +1,4 @@
+#Thu Mar 14 22:00:57 CST 2019
+base.0=/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

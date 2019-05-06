@@ -1,0 +1,261 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    >
+	<include
+	    android:id="@+id/include"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    layout="@layout/print"
+	    android:visibility="gone"
+	    />
+	<include
+	    android:id="@+id/include_sign"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    layout="@layout/print_sign"
+	    android:visibility="gone"
+	    />
+    <ScrollView
+        android:id="@+id/sv_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/printerSettings"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <CheckBox
+                    android:id="@+id/timesHeight_check"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/higher" />
+
+                <CheckBox
+                    android:id="@+id/timesWeight_check"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/timesHeight_check"
+                    android:layout_toRightOf="@+id/timesHeight_check"
+                    android:text="@string/widther" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <CheckBox
+                    android:id="@+id/setBold_check"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/Bold" />
+
+                <CheckBox
+                    android:id="@+id/setUnderLine_check"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/setBold_check"
+                    android:layout_toRightOf="@+id/setBold_check"
+                    android:text="@string/Underline" />
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/init_printBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/printer_init" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/align" />
+
+            <Spinner
+                android:id="@+id/alignType_check"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:entries="@array/wordAlignType" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/barcodeSetting"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/barcodeType" />
+
+            <Spinner
+                android:id="@+id/barcodeType_check"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:entries="@array/barcodeType" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" 
+                android:focusable="true" 
+				android:focusableInTouchMode="true" >
+
+                <Button
+                    android:id="@+id/barcode_printBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/print" />
+
+                <EditText
+                    android:id="@+id/inputBarData_printBtn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@id/barcode_printBtn"
+                    android:hint="@string/pleaseEnterBarCode"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/qrcodeSetting"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/qrcodeType" />
+
+            <Spinner
+                android:id="@+id/qrcodeType_check"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:entries="@array/qrcodeType" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <Button
+                    android:id="@+id/qrcode_printBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:text="@string/print" />
+
+                <EditText
+                    android:id="@+id/inputQrData_printBtn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@id/qrcode_printBtn"
+                    android:hint="@string/pleaseEnterQRCode"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/printFlashPic"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center" >
+
+                <Button
+                    android:id="@+id/bt_selsectImage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/selectImage" />
+
+                <Button
+                    android:id="@+id/bt_printerPic"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/printPic" />
+
+                <Button
+                    android:id="@+id/flashPic_printBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/printPic"
+                    android:visibility="gone" />
+
+                <Spinner
+                    android:id="@+id/flashPicType_check"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:entries="@array/flashPicType"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/print_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:text="@string/print_content"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <Button
+                    android:id="@+id/paperPrint_printBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/print_content"
+                    android:text="@string/print" />
+
+                <EditText
+                    android:id="@+id/inputData_printBtn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/print_content"
+                    android:layout_toLeftOf="@id/paperPrint_printBtn"
+                    android:hint="@string/pleaseEnter"
+                    android:textSize="18sp" />
+            </RelativeLayout>
+			
+            <Button
+                android:id="@+id/bt_open_sfz"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:text="开启身份证" />
+            <Button
+                android:id="@+id/bt_printTest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="printTest1" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

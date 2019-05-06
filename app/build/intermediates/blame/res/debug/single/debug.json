@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_testpic.jpg.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/testpic.jpg"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_txt_borad_bg.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/txt_borad_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_msg_box.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/msg_box.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-1024x600_tag_read_layout.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-1024x600/tag_read_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_back_icon.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/back_icon.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_taglist.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/taglist.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_btn_bg.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/btn_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_toggle_yes.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/btn_toggle_yes.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_activity_psam_card32555.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/activity_psam_card32555.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_btn_toggle.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/btn_toggle.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_bg_gv.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/bg_gv.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_bg_alibuybutton_pressed.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/bg_alibuybutton_pressed.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-800x480_main_activity.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-800x480/main_activity.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/raw_ok.wav.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/raw/ok.wav"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_activity_debit_credit_read_card.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/activity_debit_credit_read_card.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_iccardorder.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/iccardorder.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_nonclick_button_shape.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/nonclick_button_shape.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_btn_cancel_selector.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/btn_cancel_selector.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_selector_tabtext.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/selector_tabtext.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_sfz.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/sfz.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_edit_layout_shape.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/edit_layout_shape.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_activity_m1.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/activity_m1.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_fingerprint.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/fingerprint.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_menu_item.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/menu_item.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-800x480_tag_write_layout.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-800x480/tag_write_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_cardselect.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/cardselect.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_edit_shape.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/edit_shape.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_button_click_selector.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/button_click_selector.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-1024x600_tag_write_layout.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-1024x600/tag_write_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi-800x480_main_background.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi-800x480/main_background.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_listview_item.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/listview_item.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/ic.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_back_icon_click.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/back_icon_click.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_half_transparent_shape.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/half_transparent_shape.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_magstripecard.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/magstripecard.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_sfz.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/sfz.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_blue_base_tabpager_indicator_selected.9.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/blue_base_tabpager_indicator_selected.9.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-1280x720_datalist.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-1280x720/datalist.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_activity_printer.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/activity_printer.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-1280x720_tag_write_layout.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-1280x720/tag_write_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_psam_card.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/psam_card.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ok_normal.9.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/btn_ok_normal.9.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_cpu.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/cpu.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_print_sign.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/print_sign.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_main_background.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/main_background.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_m1.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/m1.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-800x480_datalist.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-800x480/datalist.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_click_button_shape.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/click_button_shape.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_dialog_bottom_bg.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/dialog_bottom_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_activity_psam_card.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/activity_psam_card.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_btn_toggle_bg.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/btn_toggle_bg.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_magstripecard.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/magstripecard.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_menu_dialog_item.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/menu_dialog_item.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_back_click_selector.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/back_click_selector.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/xml_device_filter.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/xml/device_filter.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_tab_indicator.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_menu_dialog.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/menu_dialog.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_tag_write_layout.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/tag_write_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/menu_psam_card32555.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/menu/psam_card32555.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_setting_dialog.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/setting_dialog.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_simple_list_item.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/simple_list_item.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-800x480_inputnumber_dialog_hk.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-800x480/inputnumber_dialog_hk.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-800x480_activity_uhf.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-800x480/activity_uhf.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-1280x720_tag_read_layout.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-1280x720/tag_read_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_bg_alibuybutton_selected.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/bg_alibuybutton_selected.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_screen_bk.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/screen_bk.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_barcode.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/barcode.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_activity_sfz.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/activity_sfz.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-800x480_tag_read_layout.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-800x480/tag_read_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_activity_fbi.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/activity_fbi.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_input_data.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/input_data.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/raw_barcode.mp3.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/raw/barcode.mp3"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_activity_get_version.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/activity_get_version.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cancel_pressed.9.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/btn_cancel_pressed.9.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_tag_read_layout.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/tag_read_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_toggle_no.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/btn_toggle_no.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_ok_pressed.9.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/btn_ok_pressed.9.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_msg_confirm.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/msg_confirm.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-1280x720_main_activity.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-1280x720/main_activity.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_sfz_bg.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/sfz_bg.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_printer.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/printer.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_print.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/print.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_cancel.9.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/btn_cancel.9.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_barcode_activity.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/barcode_activity.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_background.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_fingerprint.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/fingerprint.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_grid_item.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-1024x600_main_activity.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-1024x600/main_activity.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi_hx.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi/hx.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-1280x720_activity_uhf.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-1280x720/activity_uhf.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_main_activity.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_bg_alibuybutton_default.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/bg_alibuybutton_default.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_fpdisplay_fbi.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/fpdisplay_fbi.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-xhdpi-800x480_background.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-xhdpi-800x480/background.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable-hdpi_bg_bombbox.9.png.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable-hdpi/bg_bombbox.9.png"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_activity_uhf.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/activity_uhf.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_tagoper_layout.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/tagoper_layout.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout-1024x600_activity_uhf.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout-1024x600/activity_uhf.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/layout_list_select.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/layout/list_select.xml"
+    },
+    {
+        "merged": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/res/merged/debug/drawable_btn_ok_selector.xml.flat",
+        "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/drawable/btn_ok_selector.xml"
+    }
+]

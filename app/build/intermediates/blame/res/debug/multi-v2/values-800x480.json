@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/apple/Downloads/PDemo_V1.6/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-800x480/values-800x480.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/Downloads/PDemo_V1.6/app/src/main/res/values-800x480/dimens.xml",
+                    "from": {
+                        "startLines": "3,8,4,5,6,7,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "92,368,151,208,257,313,416,469",
+                        "endColumns": "57,46,55,47,54,53,51,50",
+                        "endOffsets": "145,410,202,251,307,362,463,515"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,160,216,264,319,373,425",
+                        "endColumns": "57,46,55,47,54,53,51,50",
+                        "endOffsets": "108,155,211,259,314,368,420,471"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,350 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:2:1-179:12
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:2:1-179:12
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:2:1-179:12
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:2:1-179:12
+MERGED from [com.android.support:support-v4:22.2.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4a4585f6f7c17bc063a8f1afa0d39f4d/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:2:1-179:12
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:2:1-179:12
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:2:1-179:12
+	package
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:5:5-40
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:10:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:15:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:16:5-73
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:16:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:17:5-68
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:19:22-72
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:20:22-71
+uses-permission#android.permission.CAMERA
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:23:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:25:5-60
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:25:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:26:5-70
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:26:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:28:5-69
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:28:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:29:5-66
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:29:22-63
+uses-feature#android.hardware.usb.host
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:31:5-62
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:31:19-59
+application
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:33:5-172:19
+MERGED from [com.android.support:support-v4:22.2.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4a4585f6f7c17bc063a8f1afa0d39f4d/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4a4585f6f7c17bc063a8f1afa0d39f4d/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:36:9-41
+	android:persistent
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:37:9-34
+	android:icon
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:35:9-38
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:34:9-78
+activity#com.authentication.eighthundred.activity.MainActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:38:9-47:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:40:13-49
+	android:theme
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:41:13-60
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:39:13-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:42:13-46:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:45:27-74
+activity#com.authentication.eighthundred.activity.UHFActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:48:9-53:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:51:13-50
+	android:configChanges
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:50:13-63
+	android:theme
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:49:13-80
+activity#com.authentication.eighthundred.activity.DebitCreditTransReadCardActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:54:9-59:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:57:13-49
+	android:configChanges
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:56:13-63
+	android:theme
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:55:13-101
+activity#com.authentication.eighthundred.activity.PrinterActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:60:9-65:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:63:13-49
+	android:configChanges
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:62:13-63
+	android:theme
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:64:13-44
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:61:13-84
+activity#com.authentication.eighthundred.activity.FingerprintActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:66:9-71:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:69:13-49
+	android:configChanges
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:68:13-63
+	android:theme
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:70:13-44
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:67:13-88
+activity#com.authentication.eighthundred.activity.ICCardActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:72:9-77:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:75:13-49
+	android:configChanges
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:74:13-63
+	android:theme
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:76:13-44
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:73:13-83
+activity#com.authentication.eighthundred.activity.CPUActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:78:9-83:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:81:13-50
+	android:configChanges
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:80:13-63
+	android:theme
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:79:13-80
+activity#com.authentication.eighthundred.activity.SoftBarCodeActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:84:9-90:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:88:13-49
+	android:label
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:87:13-45
+	android:configChanges
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:86:13-63
+	android:theme
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:89:13-60
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:85:13-88
+activity#com.authentication.eighthundred.activity.CardSelectActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:91:9-94:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:93:13-49
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:92:13-87
+activity#com.authentication.eighthundred.activity.IcCardProgActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:95:9-98:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:97:13-49
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:96:13-87
+activity#com.authentication.eighthundred.activity.IcCardBankActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:99:9-102:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:101:13-49
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:100:13-87
+activity#com.authentication.eighthundred.activity.IcCardOrderActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:103:9-106:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:105:13-49
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:104:13-88
+activity#com.authentication.eighthundred.activity.MagStripeCardActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:107:9-110:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:109:13-49
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:108:13-90
+activity#com.authentication.eighthundred.activity.GetVersionActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:111:9-115:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:113:13-63
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:112:13-87
+activity#com.authentication.eighthundred.activity.UHFDetailsActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:116:9-120:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:119:13-49
+	android:label
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:118:13-62
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:117:13-87
+activity#com.authentication.eighthundred.activity.SFZActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:121:9-125:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:124:13-49
+	android:label
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:123:13-55
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:122:13-80
+activity#com.authentication.eighthundred.activity.M1Activity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:126:9-131:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:130:13-49
+	android:label
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:128:13-54
+	android:theme
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:129:13-66
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:127:13-79
+service#android_serialport_api.ScanSerice
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:133:9-134:19
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:133:18-66
+receiver#android_serialport_api.AutoBootReceiver
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:136:9-140:20
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:136:19-73
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:137:13-139:29
+	android:priority
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:137:28-57
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:138:17-79
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:138:25-76
+activity#com.authentication.eighthundred.activity.PsamCardStm32Activity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:142:9-146:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:145:13-49
+	android:label
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:144:13-61
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:143:13-90
+activity#com.authentication.eighthundred.activity.DanjuActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:147:9-152:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:150:13-49
+	android:label
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:149:13-57
+	android:windowSoftInputMode
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:151:13-52
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:148:13-82
+activity#com.authentication.eighthundred.activity.FBIFingerPrintActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:153:9-163:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:155:13-49
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:154:13-91
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:156:13-158:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:157:17-90
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:157:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:160:13-162:57
+	android:resource
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:162:17-54
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:161:17-79
+activity#com.authentication.eighthundred.activity.FPDisplayActivity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:164:9-167:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:166:13-49
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:165:13-86
+activity#com.authentication.eighthundred.activity.PsamCard32555Activity
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:168:9-171:20
+	android:screenOrientation
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:170:13-49
+	android:name
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:169:13-90
+supports-screens
+ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:174:5-177:40
+	android:largeScreens
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:176:9-36
+	android:normalScreens
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:177:9-37
+	android:anyDensity
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml:175:9-34
+uses-sdk
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:22.2.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4a4585f6f7c17bc063a8f1afa0d39f4d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.1] /Users/apple/.gradle/caches/transforms-1/files-1.1/support-v4-22.2.1.aar/4a4585f6f7c17bc063a8f1afa0d39f4d/AndroidManifest.xml:20:5-43
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/PDemo_V1.6/app/src/main/AndroidManifest.xml

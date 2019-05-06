@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <include
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        layout="@layout/sfz" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/read_sfz"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/read_sfz" />
+
+        <Button
+            android:id="@+id/read_continue"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/sequential_sfz" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+
+        <Button
+            android:id="@+id/read_stop"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/stop" />
+
+        <Button
+            android:id="@+id/read_clear"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:text="@string/clear_sfz" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/bt_getUID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/get_uid" />
+
+    <TextView
+        android:id="@+id/resultInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black" />
+
+</LinearLayout>
